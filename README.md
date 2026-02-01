@@ -3,7 +3,7 @@
 I wanted to manage to plan out my TFT team at higher level without committing to traits yet.
 It imports a list of champtions and their traits (type, class, origin) and traits for the set.
 
-==The lists are contained in text files, these will need to be updated for the current set.==
+***The lists are contained in text files, these will need to be updated for the current set.***
 
 What you can do in app:
 - Select the traits you plan on focusing your comp (max 3). (Left-click)
@@ -17,6 +17,8 @@ What you can do in app:
   - Possible active bonuses you can get because:
     - traits you selected to focus on
     - possible other traits you can activate because the traits you chose share multiple champions in other traits
+
+---
 
 Example (set 13):
 - You pick to focus on Golden Ox, Marksman, Bruiser
