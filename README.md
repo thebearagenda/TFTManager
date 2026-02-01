@@ -25,3 +25,5 @@ Example (set 13):
 - Markmen contains a lot of heroes that are meant to deal damage
 - Bruiser contains champions meant to be tanky
 - You could potentially activate the Slayer, Techie, and/or Divinicorp traits because the 3 traits you chose contains multiple heroes are from Slayer, Techie, and/or Divinicorp.
+
+![Screenshot of the app with Golden Ox, Marksmen, and Bruiser selected.](https://github.com/thebearagenda/TFTManager/blob/main/App%20Screenshot.png)
