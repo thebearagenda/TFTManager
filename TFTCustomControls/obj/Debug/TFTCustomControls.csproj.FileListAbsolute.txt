@@ -1,0 +1,10 @@
+C:\Users\Nathan\source\repos\TFTCustomControls\bin\Debug\TFTCustomControls.pdb
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.Properties.Resources.resources
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.pdb
+C:\Users\Nathan\source\repos\TFTCustomControls\bin\Debug\TFTCustomControls.dll.config
+C:\Users\Nathan\source\repos\TFTCustomControls\bin\Debug\TFTCustomControls.dll
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.dll
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.FillBar.resources
+C:\Users\Nathan\source\repos\TFTCustomControls\obj\Debug\TFTCustomControls.csproj.AssemblyReference.cache

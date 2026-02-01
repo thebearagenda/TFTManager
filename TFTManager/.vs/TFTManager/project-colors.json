@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dbef7ef-41d0-42d9-a6f9-517d2a15231d": {
+      "ProjectGuid": "7dbef7ef-41d0-42d9-a6f9-517d2a15231d",
+      "DisplayName": "TFTManager",
+      "ColorIndex": 0
+    },
+    "a611fc80-44e0-4054-940b-5eab6d644bd5": {
+      "ProjectGuid": "a611fc80-44e0-4054-940b-5eab6d644bd5",
+      "DisplayName": "CustomControls",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1106846d-0967-456e-ab82-880248c3d5c6": {
+      "ProjectGuid": "1106846d-0967-456e-ab82-880248c3d5c6",
+      "DisplayName": "TFTCustomControls",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

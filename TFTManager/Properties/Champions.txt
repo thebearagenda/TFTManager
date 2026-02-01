@@ -1,0 +1,58 @@
+Alistar	Magic Tank	Golden Ox	Bruiser
+Annie	Magic Caster	Golden Ox	AMP
+Aphelios	Attack Carry	Golden Ox	Marksman
+Aurora	Magic Caster	Anima	Dynamo
+Brand	Magic Caster	Street Demon	Techie
+Braum	Magic Tank	Syndicate	Vanguard
+Cho'Gath	Magic Tank	Boombot	Bruiser
+Darius	Attack Tank	Syndicate	Bruiser
+Dr. Mundo	Attack Tank	Street Demon	Bruiser	Slayer
+Draven	Attack Caster	Cypher	Rapidfire
+Ekko	Magic Tank	Street Demon	Strategist
+Elise	Magic Caster	Nitro	Dynamo
+Fiddlesticks	Magic Fighter	Boombot	Techie
+Galio	Magic Tank	Cypher	Bastion
+Gragas	Magic Tank	Divinicorp	Bruiser
+Graves	Attack Reaper	Golden Ox	Executioner
+Illaoi	Magic Tank	Anima	Bastion
+Jarvan IV	Attack Tank	Golden Ox	Vanguard	Slayer
+Jax	Magic Tank	Exotech	Bastion
+Jhin	Attack Caster	Exotech	Marksman	Dynamo
+Jinx	Attack Caster	Street Demon	Marksman
+Kindred	Attack Caster	Nitro	Rapidfire	Marksman
+Kobuko	Magic Fighter	Cyberboss	Bruiser
+Kog'Maw	Attack Carry	Boombot	Rapidfire
+LeBlanc	Magic Caster	Cypher	Strategist
+Leona	Magic Tank	Anima	Vanguard
+Miss Fortune	Attack Caster	Syndicate	Dynamo
+Mordekaiser	Magic Tank	Exotech	Bruiser	Techie
+Morgana	Magic Caster	Divinicorp	Dynamo
+Naafiri	Attack Fighter	Exotech	AMP
+Neeko	Magic Tank	Street Demon	Strategist
+Nidalee	Magic Fighter	Nitro	AMP
+Poppy	Magic Tank	Cyberboss	Bastion
+Renekton	Attack Fighter	Divinicorp	Bastion
+Rengar	Attack Reaper	Street Demon	Executioner
+Rhaast	Attack Tank	Divinicorp	Vanguard
+Samira	Attack Caster	Street Demon	AMP
+Sejuani	Magic Tank	Exotech	Bastion
+Senna	Attack Caster	Divinicorp	Slayer
+Seraphine	Magic Caster	Anima	Techie
+Shaco	Attack Reaper	Syndicate	Slayer
+Shyvana	Magic Tank	Nitro	Bastion	Techie
+Skarner	Magic Tank	Boombot	Vanguard
+Sylas	Magic Tank	Anima	Vanguard
+Twisted Fate	Magic Carry	Syndicate	Rapidfire
+Urgot	Attack Carry	Boombot	Executioner
+Varus	Magic Caster	Exotech	Executioner
+Vayne	Attack Carry	Anima	Slayer
+Veigar	Magic Caster	Cyberboss	Techie
+Vex	Magic Caster	Divinicorp	Executioner
+Vi	Attack Tank	Cypher	Vanguard
+Viego	Magic Reaper	Golden Ox	Techie
+Xayah	Attack Caster	Anima	Marksman
+Yuumi	Magic Caster	Anima	AMP	Strategist
+Zed	Attack Reaper	Cypher	Slayer
+Zeri	Attack Carry	Exotech	Rapidfire
+Ziggs	Magic Caster	Cyberboss	Strategist
+Zyra	Magic Caster	Street Demon	Techie

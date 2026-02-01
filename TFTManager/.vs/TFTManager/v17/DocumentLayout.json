@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|C:\\Users\\Nathan\\source\\repos\\TFTManager\\traitimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:traitimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|C:\\Users\\Nathan\\source\\repos\\TFTManager\\championimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:championimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACF8FC8-4C34-415D-9D0A-592CD55B30CE}|..\\TFTManager.UnitTests\\TFTManager.UnitTests.csproj|c:\\users\\nathan\\source\\repos\\tftmanager.unittests\\traitcalculationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|C:\\Users\\Nathan\\source\\repos\\TFTManager\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|c:\\users\\nathan\\source\\repos\\tftmanager\\properties\\champions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:properties\\champions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|c:\\users\\nathan\\source\\repos\\tftmanager\\properties\\traits.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:properties\\traits.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|C:\\Users\\Nathan\\source\\repos\\TFTManager\\tftmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:tftmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|c:\\users\\nathan\\source\\repos\\tftmanager\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBEF7EF-41D0-42D9-A6F9-517D2A15231D}|TFTManager.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Traits.txt",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Properties\\Traits.txt",
+              "RelativeDocumentMoniker": "Properties\\Traits.txt",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Properties\\Traits.txt",
+              "RelativeToolTip": "Properties\\Traits.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-01T06:15:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Champions.txt",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Properties\\Champions.txt",
+              "RelativeDocumentMoniker": "Properties\\Champions.txt",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Properties\\Champions.txt",
+              "RelativeToolTip": "Properties\\Champions.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-01T06:14:41.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Role.cs",
+              "RelativeDocumentMoniker": "Role.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Role.cs",
+              "RelativeToolTip": "Role.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:03:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Hero.cs",
+              "RelativeDocumentMoniker": "Hero.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\Hero.cs",
+              "RelativeToolTip": "Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:03:22.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraitImporter.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\TraitImporter.cs",
+              "RelativeDocumentMoniker": "TraitImporter.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\TraitImporter.cs",
+              "RelativeToolTip": "TraitImporter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:01:39.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraitCalculationsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager.UnitTests\\TraitCalculationsTests.cs",
+              "RelativeDocumentMoniker": "..\\TFTManager.UnitTests\\TraitCalculationsTests.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager.UnitTests\\TraitCalculationsTests.cs",
+              "RelativeToolTip": "..\\TFTManager.UnitTests\\TraitCalculationsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T00:58:26.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChampionImporter.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\ChampionImporter.cs",
+              "RelativeDocumentMoniker": "ChampionImporter.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\ChampionImporter.cs",
+              "RelativeToolTip": "ChampionImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T00:57:41.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TFTManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\TFTManager.cs",
+              "RelativeDocumentMoniker": "TFTManager.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\TFTManager\\TFTManager.cs",
+              "RelativeToolTip": "TFTManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:29:27.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

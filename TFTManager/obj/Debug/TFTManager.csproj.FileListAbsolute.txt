@@ -1,0 +1,15 @@
+C:\Users\Nathan\source\repos\TFTManager\bin\Debug\TFTManager.exe.config
+C:\Users\Nathan\source\repos\TFTManager\bin\Debug\TFTManager.exe
+C:\Users\Nathan\source\repos\TFTManager\bin\Debug\TFTManager.pdb
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.csproj.AssemblyReference.cache
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.Properties.Resources.resources
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.TFTManager.resources
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.exe
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.pdb
+C:\Users\Nathan\source\repos\TFTManager\bin\Debug\TFTCustomControls.dll
+C:\Users\Nathan\source\repos\TFTManager\bin\Debug\TFTCustomControls.pdb
+C:\Users\Nathan\source\repos\TFTManager\bin\Debug\TFTCustomControls.dll.config
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.exe.config
+C:\Users\Nathan\source\repos\TFTManager\obj\Debug\TFTManager.csproj.Up2Date

@@ -1,0 +1,21 @@
+Anima	Anima Squad champions gain Armor, Magic Resist, and Damage Amp. Pick a weapon that a random Anima Squad champion fires periodically during combat.	3
+Boombot	BoomBots fire a missile every 400 damage dealt at a nearby enemy that deals magic damage. 8% of damage taken contributes to damage dealt.	2
+Cyberboss	Your strongest Cyberboss upgrades to its final form and gains Health, Ability Power, and its ability hits more enemies.	2
+Cypher	Gain Intel by losing combat, increased for loss streaks. Gain a small amount for killing enemies. You may trade your Intel for loot one time on round 3-3, 3-7, 4-3, 4-7, or 5-5. After trading Intel, Cypher champions gain Attack Damage and Ability Power.	3
+Divinicorp	Divinicorp champions grant unique stats to your team, increased for each Divinicorp in play. Divinicorp champions gain double.	1
+Exotech	Gain unique items that can only be equipped by Exotech champions. They gain Health and Attack Speed for each item equipped.	3
+Golden Ox	Golden Ox gain Damage Amp and have a chance to drop gold on kill.	2
+Nitro	Every round, unique Nitro champions grant Chrome to R-080T, based on their star level. Each Chrome grants 11 Health and 1 Ability Power.	3
+Street Demon	Allies in painted hexes gain Health, Ability Power, and Attack Damage. Some hexes are Signature hexes and grant 50% more. Street Demons double all bonuses.	3
+Syndicate	Get a Kingpin hat that uniquely upgrades a Syndicate champion's ability. Syndicate champions gain Health and Damage Amp.	3
+AMP	A.M.P. champions upgrade their abilities in unique ways with Amp. They also gain Health.	2
+Bastion	Your team gains 10 Armor and Magic Resist. Bastions gain more. For the first 10 seconds of combat, Bastions increase their bonus by 100%.	2
+Bruiser	Your team gains 100 Health. Bruisers gain more.	2
+Dynamo	Every 3 seconds, your team gains Mana. Dynamos gain 100% more.	2
+Executioner	Executioner Abilities can critically strike. They also gain bonus Critical Strike Chance and Critical Strike Damage. If the target's Health is below 20%, the bonus Critical Strike Damage is doubled.	2
+Marksman	Marksmen gain Attack Damage. After 8 seconds of combat, they increase their bonus by 100%.	2
+Rapidfire	Your team gains 10% Attack Speed. Rapidfire champions gain more on each attack, stacking up to 10 times.	2
+Slayer	Slayers gain Attack Damage and Omnivamp. Overhealing heals the lowest percent Health Slayer for 50% of the excess amount.	2
+Strategist	Combat Start: Allies in the back 2 rows gain Damage Amp. Allies in the front 2 rows gain Durability. Strategists get triple.	2
+Techie	Techies gain Ability Power. Enemies hit by their abilities deal 10% less damage for 3 seconds.	2
+Vanguard	Vanguards gain 10% Durability while Shielded. Combat start and 50% Health: Gain a max Health Shield for 10 seconds.	2

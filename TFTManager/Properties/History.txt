@@ -1,0 +1,12 @@
+First Trait	Second Trait	Third Trait	Resilience	Power	Synergy	Placement	Notes
+Golden Ox	Bruiser	Slayer	10.5	8.5	5	3rd	Slayer focus
+Boombot	Bruiser	Executioner	7	8	4	1st	Boombot focus
+Boombot	Vanguard	Executioner	7.5	7.5	4	2nd	Rapidfire -> Executioner
+Nitro	Bastion	Markman	8	8	5	1st	Exotech, Dynamo Bonus
+Cyberboss	Bruiser	Techie	10.5	8.5	6	4th	Bastion -> Bruiser,
+Exotech	Bastion	Dynamo	10	9	6	2nd	Aurora main, exotech optional
+Exotech	Bastion		10	4	3	2nd	
+Anima	Vanguard		10	5	3	3rd	
+Cyber Boss	Bastion	Techie	10.5	8.5	4	8th	No
+Bruiser	RapidFire	Boombot	7	8	3	2nd	Bruiser is the main focus
+Vanguard	Marksmen		7	5	0	2nd	
